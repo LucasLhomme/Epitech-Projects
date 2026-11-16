@@ -33,7 +33,11 @@ Epitech-Projects/
 │   ├── codename/                      # LLM security & prompt injection evaluation
 │   └── persona/                       # Automated news aggregator with n8n & Google Gemini
 │
-└── tek3/                              # Third Year — (Upcoming / Currently in progress)
+└── tek3/                              # Third Year — Advanced AI, Kubernetes & Cloud Systems
+    ├── mytorch/                       # Neural Network from scratch in Python (NumPy only)
+    ├── sensai/                        # Agentic AI assistant & tactical simulation engine
+    ├── bernstein/                     # Kubernetes orchestration with HPA & Zero-Downtime updates
+    └── dashboard/                     # INTER-NET: Modular distributed dashboard with microservices
 ```
 
 ---
@@ -71,7 +75,12 @@ Epitech-Projects/
 
 ### 🔹 Tek 3 (Third Year)
 
-*Tek 3 projects will be linked here as they become open source.*
+| Project | Repository | Tech Stack | Description |
+| :--- | :--- | :--- | :--- |
+| **MyTorch** | [`tek3/mytorch`](https://github.com/LucasLhomme/mytorch) | Python / NumPy | Deep learning & neural network implementation built from scratch without high-level ML frameworks to classify chess FEN positions into check/checkmate states. |
+| **SensAI** | [`tek3/sensai`](https://github.com/LucasLhomme/sensai) | Python / FastAPI / React / SQLite | Modular agentic AI assistant & tactical simulation engine in ancient China with RAG, semantic caching, and human-in-the-loop validation. |
+| **Bernstein** | [`tek3/bernstein`](https://github.com/LucasLhomme/bernstein) | Kubernetes / Docker / Redis / Postgres | Production-grade Kubernetes orchestration of a distributed voting application featuring HPA autoscaling, zero-downtime rolling updates, and PodDisruptionBudgets. |
+| **Dashboard** | [`tek3/dashboard`](https://github.com/LucasLhomme/dashboard) | FastAPI / React 19 / Redis / MySQL / Docker | INTER-NET: Modular distributed dashboard with microservices architecture, multi-service OAuth2 widgets, and real-time data refreshing. |
 
 ---
 
@@ -101,9 +110,9 @@ git submodule update --remote --merge
 Each folder is a fully autonomous Git repository:
 
 ```bash
-cd tek2/nanotekspice
+cd tek3/mytorch
 git checkout main
-# Build or run tests directly inside the project
+# Build, train or run tests directly inside the project
 ```
 
 ---

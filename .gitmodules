@@ -58,3 +58,19 @@
 	path = tek2/persona
 	url = https://github.com/LucasLhomme/persona.git
 	branch = main
+[submodule "tek3/mytorch"]
+	path = tek3/mytorch
+	url = https://github.com/LucasLhomme/mytorch.git
+	branch = main
+[submodule "tek3/sensai"]
+	path = tek3/sensai
+	url = https://github.com/LucasLhomme/sensai.git
+	branch = main
+[submodule "tek3/bernstein"]
+	path = tek3/bernstein
+	url = https://github.com/LucasLhomme/bernstein.git
+	branch = main
+[submodule "tek3/dashboard"]
+	path = tek3/dashboard
+	url = https://github.com/LucasLhomme/dashboard.git
+	branch = main
