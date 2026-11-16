@@ -50,11 +50,11 @@
 	path = tek2/starttrek
 	url = https://github.com/LucasLhomme/starttrek.git
 	branch = main
-[submodule "tek3/codename"]
-	path = tek3/codename
+[submodule "tek2/codename"]
+	path = tek2/codename
 	url = https://github.com/LucasLhomme/codename.git
 	branch = main
-[submodule "tek3/persona"]
-	path = tek3/persona
+[submodule "tek2/persona"]
+	path = tek2/persona
 	url = https://github.com/LucasLhomme/persona.git
 	branch = main

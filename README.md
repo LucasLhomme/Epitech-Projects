@@ -29,11 +29,11 @@ Epitech-Projects/
 │   ├── mymarvin/                      # CI/CD automation with Jenkins, Job DSL & Docker
 │   ├── octopus/                       # Infrastructure as Code with Ansible (5-node VM cluster)
 │   ├── Popeye/                        # Container orchestration with Docker Swarm
-│   └── starttrek/                     # Deep Reinforcement Learning (DQN/PPO) on LunarLander
+│   ├── starttrek/                     # Deep Reinforcement Learning (DQN/PPO) on LunarLander
+│   ├── codename/                      # LLM security & prompt injection evaluation
+│   └── persona/                       # Automated news aggregator with n8n & Google Gemini
 │
-└── tek3/                              # Third Year — LLMs, Cloud & AI Engineering
-    ├── codename/                      # LLM security & prompt injection evaluation
-    └── persona/                       # Automated news aggregator with n8n & Google Gemini
+└── tek3/                              # Third Year — (Upcoming / Currently in progress)
 ```
 
 ---
@@ -64,15 +64,14 @@ Epitech-Projects/
 | **Octopus** | [`tek2/octopus`](https://github.com/LucasLhomme/octopus) | Ansible / Linux | Multi-tier infrastructure deployment across a cluster of 5 virtual machines using Ansible playbooks. |
 | **Popeye** | [`tek2/Popeye`](https://github.com/LucasLhomme/Popeye) | Docker / Swarm | Multi-container application orchestrator and service deployment using Docker Compose & Docker Swarm. |
 | **StartTrek** | [`tek2/starttrek`](https://github.com/LucasLhomme/starttrek) | Python / PyTorch / Gym | Autonomous spaceship lander using Deep Reinforcement Learning (DQN and PPO algorithms). |
+| **Codename** | [`tek2/codename`](https://github.com/LucasLhomme/codename) | Python / LLMs | Offensive and defensive prompt injection engineering, jailbreak testing, and safety guardrails. |
+| **Persona** | [`tek2/persona`](https://github.com/LucasLhomme/persona) | n8n / Docker / PostgreSQL / Gemini | Automated personalized newsletter & news intelligence pipeline powered by Google Gemini and n8n orchestration. |
 
 ---
 
 ### 🔹 Tek 3 (Third Year)
 
-| Project | Repository | Tech Stack | Description |
-| :--- | :--- | :--- | :--- |
-| **Codename** | [`tek3/codename`](https://github.com/LucasLhomme/codename) | Python / LLMs | Offensive and defensive prompt injection engineering, jailbreak testing, and safety guardrails. |
-| **Persona** | [`tek3/persona`](https://github.com/LucasLhomme/persona) | n8n / Docker / PostgreSQL / Gemini | Automated personalized newsletter & news intelligence pipeline powered by Google Gemini and n8n orchestration. |
+*Tek 3 projects will be linked here as they become open source.*
 
 ---
 
