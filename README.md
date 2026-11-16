@@ -15,7 +15,7 @@ All projects are organized by academic year as independent Git submodules tracki
 
 ```text
 Epitech-Projects/
-├── tek1/                              # First Year — C Programming, Algorithms, Systems & DevOps (26 projects)
+├── tek1/                              # First Year (2024 – 2025) — C Programming, Algorithms, Systems & DevOps (26 projects)
 │   ├── 42sh/                          # Complete Unix shell in C (fix_main)
 │   ├── Secured/                       # High-performance hash table library in C
 │   ├── EpyTodo/                       # Full-stack Web Todo application (Node.js/MySQL)
@@ -43,7 +43,7 @@ Epitech-Projects/
 │   ├── cuddle/                        # Tabular CSV manipulation library (Pandas-like) in C
 │   └── chocolatine/                   # Automated CI/CD pipeline workflow with GitHub Actions
 │
-├── tek2/                              # Second Year — Advanced C++, DevOps, Networks & AI (11 projects)
+├── tek2/                              # Second Year (2025 – 2026) — Advanced C++, DevOps, Networks & AI (11 projects)
 │   ├── arcade/                        # Modular gaming platform with dynamic .so plugins
 │   ├── nanotekspice/                  # Digital logic simulator in C++20
 │   ├── raytracer/                     # 3D Ray tracing engine in C++20
@@ -56,7 +56,7 @@ Epitech-Projects/
 │   ├── codename/                      # LLM security & prompt injection evaluation
 │   └── persona/                       # Automated news aggregator with n8n & Google Gemini
 │
-└── tek3/                              # Third Year — Advanced AI, Kubernetes & Cloud Systems (4 projects)
+└── tek3/                              # Third Year (2026 – 2027) — Advanced AI, Kubernetes & Cloud Systems (4 projects)
     ├── mytorch/                       # Neural Network from scratch in Python (NumPy only)
     ├── sensai/                        # Agentic AI assistant & tactical simulation engine
     ├── bernstein/                     # Kubernetes orchestration with HPA & Zero-Downtime updates
@@ -67,7 +67,7 @@ Epitech-Projects/
 
 ## 📦 Projects Overview
 
-### 🔹 Tek 1 (First Year — 26 Projects)
+### 🔹 Tek 1 — First Year (2024 – 2025 · 26 Projects)
 
 | Project | Repository | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
@@ -100,7 +100,7 @@ Epitech-Projects/
 
 ---
 
-### 🔹 Tek 2 (Second Year — 11 Projects)
+### 🔹 Tek 2 — Second Year (2025 – 2026 · 11 Projects)
 
 | Project | Repository | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
@@ -118,7 +118,7 @@ Epitech-Projects/
 
 ---
 
-### 🔹 Tek 3 (Third Year — 4 Projects)
+### 🔹 Tek 3 — Third Year (2026 – 2027 · 4 Projects)
 
 | Project | Repository | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
