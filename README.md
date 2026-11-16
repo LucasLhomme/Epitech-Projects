@@ -1,10 +1,10 @@
 # 🎓 Epitech Projects — Lucas Lhomme (Crabe)
 
-> **Curated umbrella catalog of 42 open-source computer science projects developed during my curriculum at [Epitech](https://www.epitech.eu/) (European Institute of Information Technology), organized by academic year (Tek1, Tek2, Tek3).**
+> **Curated umbrella catalog of 41 open-source computer science projects developed during my curriculum at [Epitech](https://www.epitech.eu/) (European Institute of Information Technology), organized by academic year (Tek1, Tek2, Tek3).**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Submodules](https://img.shields.io/badge/Git-Submodules-orange.svg)](#project-structure)
-[![Projects](https://img.shields.io/badge/Projects-42%20Repositories-brightgreen.svg)](#projects-overview)
+[![Projects](https://img.shields.io/badge/Projects-41%20Repositories-brightgreen.svg)](#projects-overview)
 [![School](https://img.shields.io/badge/School-Epitech-005696.svg)](https://www.epitech.eu/)
 
 ---
@@ -15,7 +15,7 @@ All projects are organized by academic year as independent Git submodules tracki
 
 ```text
 Epitech-Projects/
-├── tek1/                              # First Year — C Programming, Algorithms, Systems & DevOps (27 projects)
+├── tek1/                              # First Year — C Programming, Algorithms, Systems & DevOps (26 projects)
 │   ├── 42sh/                          # Complete Unix shell in C (fix_main)
 │   ├── Secured/                       # High-performance hash table library in C
 │   ├── EpyTodo/                       # Full-stack Web Todo application (Node.js/MySQL)
@@ -23,7 +23,6 @@ Epitech-Projects/
 │   ├── amazed/                        # Graph pathfinding & maze flow solver in C
 │   ├── corewar/                       # Virtual Machine & arena for concurrent champion bytecode
 │   ├── robotfactory/                  # Corewar assembler compiling .s into .cor bytecode
-│   ├── cworkshoplib/                  # Foundational C library (Piscine / C Workshop)
 │   ├── countisland/                   # Connected-component labeling on 2D grids in C
 │   ├── star/                          # Procedural geometric ASCII star generator
 │   ├── rush1/                         # Geometric ASCII pattern & frame renderer
@@ -68,7 +67,7 @@ Epitech-Projects/
 
 ## 📦 Projects Overview
 
-### 🔹 Tek 1 (First Year — 27 Projects)
+### 🔹 Tek 1 (First Year — 26 Projects)
 
 | Project | Repository | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
@@ -79,7 +78,6 @@ Epitech-Projects/
 | **Amazed** | [`tek1/amazed`](https://github.com/LucasLhomme/amazed) | C | Graph pathfinding & network flow simulation moving robotic avatars through mazes with optimal paths. |
 | **Corewar** | [`tek1/corewar`](https://github.com/LucasLhomme/corewar) | C | Circular memory virtual machine arena where concurrent bytecode champions compete for execution space. |
 | **Robot Factory** | [`tek1/robotfactory`](https://github.com/LucasLhomme/robotfactory) | C | Assembler compiler encoding `.s` assembly source code into `.cor` Corewar bytecode binaries. |
-| **CWorkshopLib** | [`tek1/cworkshoplib`](https://github.com/LucasLhomme/cworkshoplib) | C | Foundational standard C library replicating essential POSIX and libc routines. |
 | **Count Island** | [`tek1/countisland`](https://github.com/LucasLhomme/countisland) | C | Connected-component labeling algorithm identifying and counting contiguous landmasses on 2D maps. |
 | **Star** | [`tek1/star`](https://github.com/LucasLhomme/star) | C | Geometric ASCII star pattern generator rendering a symmetric 6-pointed star. |
 | **Rush 1** | [`tek1/rush1`](https://github.com/LucasLhomme/rush1) | C | Procedural 2D ASCII box and frame renderer with configurable borders. |

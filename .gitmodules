@@ -78,10 +78,6 @@
 	path = tek1/amazed
 	url = https://github.com/LucasLhomme/amazed.git
 	branch = main
-[submodule "tek1/cworkshoplib"]
-	path = tek1/cworkshoplib
-	url = https://github.com/LucasLhomme/cworkshoplib.git
-	branch = main
 [submodule "tek1/countisland"]
 	path = tek1/countisland
 	url = https://github.com/LucasLhomme/countisland.git
