@@ -42,8 +42,8 @@
 	path = tek2/octopus
 	url = https://github.com/LucasLhomme/octopus.git
 	branch = main
-[submodule "tek2/Popeye"]
-	path = tek2/Popeye
+[submodule "tek1/Popeye"]
+	path = tek1/Popeye
 	url = https://github.com/LucasLhomme/Popeye.git
 	branch = main
 [submodule "tek2/starttrek"]
@@ -73,4 +73,96 @@
 [submodule "tek3/dashboard"]
 	path = tek3/dashboard
 	url = https://github.com/LucasLhomme/dashboard.git
+	branch = main
+[submodule "tek1/amazed"]
+	path = tek1/amazed
+	url = https://github.com/LucasLhomme/amazed.git
+	branch = main
+[submodule "tek1/cworkshoplib"]
+	path = tek1/cworkshoplib
+	url = https://github.com/LucasLhomme/cworkshoplib.git
+	branch = main
+[submodule "tek1/countisland"]
+	path = tek1/countisland
+	url = https://github.com/LucasLhomme/countisland.git
+	branch = main
+[submodule "tek1/star"]
+	path = tek1/star
+	url = https://github.com/LucasLhomme/star.git
+	branch = main
+[submodule "tek1/rush1"]
+	path = tek1/rush1
+	url = https://github.com/LucasLhomme/rush1.git
+	branch = main
+[submodule "tek1/rush2"]
+	path = tek1/rush2
+	url = https://github.com/LucasLhomme/rush2.git
+	branch = main
+[submodule "tek1/miniprintf"]
+	path = tek1/miniprintf
+	url = https://github.com/LucasLhomme/miniprintf.git
+	branch = main
+[submodule "tek1/myprintf"]
+	path = tek1/myprintf
+	url = https://github.com/LucasLhomme/myprintf.git
+	branch = main
+[submodule "tek1/settingup"]
+	path = tek1/settingup
+	url = https://github.com/LucasLhomme/settingup.git
+	branch = main
+[submodule "tek1/organized"]
+	path = tek1/organized
+	url = https://github.com/LucasLhomme/organized.git
+	branch = main
+[submodule "tek1/corewar"]
+	path = tek1/corewar
+	url = https://github.com/LucasLhomme/corewar.git
+	branch = main
+[submodule "tek1/robotfactory"]
+	path = tek1/robotfactory
+	url = https://github.com/LucasLhomme/robotfactory.git
+	branch = main
+[submodule "tek1/myls"]
+	path = tek1/myls
+	url = https://github.com/LucasLhomme/myls.git
+	branch = main
+[submodule "tek1/mysudo"]
+	path = tek1/mysudo
+	url = https://github.com/LucasLhomme/mysudo.git
+	branch = main
+[submodule "tek1/mytop"]
+	path = tek1/mytop
+	url = https://github.com/LucasLhomme/mytop.git
+	branch = main
+[submodule "tek1/minishell1"]
+	path = tek1/minishell1
+	url = https://github.com/LucasLhomme/minishell1.git
+	branch = main
+[submodule "tek1/minishell2"]
+	path = tek1/minishell2
+	url = https://github.com/LucasLhomme/minishell2.git
+	branch = main
+[submodule "tek1/myhunter"]
+	path = tek1/myhunter
+	url = https://github.com/LucasLhomme/myhunter.git
+	branch = master
+[submodule "tek1/myradar"]
+	path = tek1/myradar
+	url = https://github.com/LucasLhomme/myradar.git
+	branch = main
+[submodule "tek1/burp"]
+	path = tek1/burp
+	url = https://github.com/LucasLhomme/burp.git
+	branch = main
+[submodule "tek1/pipeto"]
+	path = tek1/pipeto
+	url = https://github.com/LucasLhomme/pipeto.git
+	branch = main
+[submodule "tek1/cuddle"]
+	path = tek1/cuddle
+	url = https://github.com/LucasLhomme/cuddle.git
+	branch = main
+[submodule "tek1/chocolatine"]
+	path = tek1/chocolatine
+	url = https://github.com/LucasLhomme/chocolatine.git
 	branch = main
