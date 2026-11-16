@@ -1,0 +1,60 @@
+[submodule "tek1/42sh"]
+	path = tek1/42sh
+	url = https://github.com/LucasLhomme/42sh.git
+	branch = fix_main
+[submodule "tek1/Secured"]
+	path = tek1/Secured
+	url = https://github.com/LucasLhomme/Secured.git
+	branch = main
+[submodule "tek1/EpyTodo"]
+	path = tek1/EpyTodo
+	url = https://github.com/LucasLhomme/EpyTodo.git
+	branch = main
+[submodule "tek2/arcade"]
+	path = tek2/arcade
+	url = https://github.com/LucasLhomme/arcade.git
+	branch = main
+[submodule "tek2/nanotekspice"]
+	path = tek2/nanotekspice
+	url = https://github.com/LucasLhomme/nanotekspice.git
+	branch = main
+[submodule "tek2/raytracer"]
+	path = tek2/raytracer
+	url = https://github.com/LucasLhomme/raytracer.git
+	branch = main
+[submodule "tek2/myteams"]
+	path = tek2/myteams
+	url = https://github.com/LucasLhomme/myteams.git
+	branch = main
+[submodule "tek2/zappy"]
+	path = tek2/zappy
+	url = https://github.com/LucasLhomme/zappy.git
+	branch = main
+[submodule "tek2/panoramix"]
+	path = tek2/panoramix
+	url = https://github.com/LucasLhomme/panoramix.git
+	branch = main
+[submodule "tek2/mymarvin"]
+	path = tek2/mymarvin
+	url = https://github.com/LucasLhomme/mymarvin.git
+	branch = main
+[submodule "tek2/octopus"]
+	path = tek2/octopus
+	url = https://github.com/LucasLhomme/octopus.git
+	branch = main
+[submodule "tek2/Popeye"]
+	path = tek2/Popeye
+	url = https://github.com/LucasLhomme/Popeye.git
+	branch = main
+[submodule "tek2/starttrek"]
+	path = tek2/starttrek
+	url = https://github.com/LucasLhomme/starttrek.git
+	branch = main
+[submodule "tek3/codename"]
+	path = tek3/codename
+	url = https://github.com/LucasLhomme/codename.git
+	branch = main
+[submodule "tek3/persona"]
+	path = tek3/persona
+	url = https://github.com/LucasLhomme/persona.git
+	branch = main
